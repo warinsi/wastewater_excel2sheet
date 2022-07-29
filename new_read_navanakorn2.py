@@ -7,7 +7,7 @@ from datetime import datetime
 from tkinter import messagebox
 import math
 
-sa = gspread.service_account(filename='skcn_wastewater.json')
+sa = gspread.service_account(filename='./skcn_wastewater.json')
 sh = sa.open("SKCN_waste_water_IoT")
 
 wks = sh.worksheet("data")
