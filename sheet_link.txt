@@ -1,0 +1,8 @@
+SKCN_waste_water_IoT
+https://docs.google.com/spreadsheets/d/1nsFwMSBKasOZCKPK-4UsDcsyfGP6SBW4YZQS16GAYkU/edit?usp=sharing
+
+wastewater_monitoring_data
+https://docs.google.com/spreadsheets/d/1GxuvE0IEa8KYK8_aFh5JLVxGupNLgTOYGlwCaKmk8qo/edit?usp=sharing
+
+Route work
+excel2sheet -> SKCN_waste_wter_IoT -> wastewater_monitoring_data -> tableu
