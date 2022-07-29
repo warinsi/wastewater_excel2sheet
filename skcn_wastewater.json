@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "skcn-waste-water",
+  "private_key_id": "5dbef73058cb48e8def7337509ee420bb82be03c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCjn446MlE4bZVd\nu3vmTrZRl9AxzlQRih/bzj5VuBOiWZDRTOcHhsAqlGZ2tOf8CNF8dhXT3YO1DqFu\nWod4bK29rRELZdS1yc911iQ4tW7h57Dm1Aq20MvvgBGubXFDYQf5FbD9VLisuwLk\ncwuqz/Paf73WB7jfs03o56rP8Tges5JObuDVg1vbxe60zLt2omnsZAwZJr9WyLZF\ni66w+dKFKxMWKnqA+Ofp5+wJVdQyMmwz1h5im1J7riEKlu3/rBs8eH4MzFFq5p3Z\ngl8/1McOIu3iMRaQzwf3rysk/pqjYm33iWNqbDwuf5/3ZGchSX78qi1G3/lAKIOd\nfz+kF4HVAgMBAAECggEAHBsoybth80Dzot21KzsDG2HqC9wm2bpxvYagc4YCrWUY\nOLOujb7qXIYQUbzCiqsTHP+FwVZwLNY+CaA4XAnDEG1dm6ka0D1ByzqFD06vJNPx\nMb1jt8KG/XVw1BcNmSbeQT2mIOYAMP+QwCA49VbySuqdd9nsulRpAiRlVYHYg4FL\nwvneiRfNZp2tgNwV1lrV4x7cHlq5YjktRwxViGHn0rq+pw0y65aZNE9m8JcPjKIH\nn/cxb8U6TGjv9YsGqVLEkD5eDZQuS4WX2wRF3omzWYnQXl5NUomsZ4HI1irFc4ap\nWWUW9EEpe9JlbYnRsZDfga8id9MkTFZo52ZmUU5+0wKBgQDPqz+eWFZUXaiZ6A2K\n8KlvFqkmStlP6FgRdTfhhZc9ZWR+OHwVOqi/3UtVTXA3aqqAPDBX/SL+44kTDQEg\nJzivPIbhgqcB+lpMS5vLwsgK1tx3F7/7uUKr3RXlS7qLU3RxQjJKCXpWZOSYgWca\n/rLfPbWSWUxFGFiOZlfY4Cd7FwKBgQDJtBm5bA5aRQASsU775F0w9UEGxkpB8MCi\nFG6q2WsySpJTpq/c7ZdN8r33TR34qFc3otpOudJgfxFuw0SMSdMgnXfUdaDrKUhC\nZTQuKV0Oja9eGhj4WTPmpUnA1HFD2N6mziPYgP6vBIRuTkpb/N81rvRULv+jYovJ\nvXl6Wf6N8wKBgDVDXfDWBWZkEz9ORlLxgPOOI1o/7lbRZ+0qXGfKZM0JeWnqQOEN\nB4UWVCEP2I1OHWcAiQG4WkZ3w4uQVU6S4LYJVyr14LHgLVLOPapYTgiBrVAaVlJQ\n5OnBrcD+2FytzfrSmKVmousPu5Xl8rT4yJX7dNuRbb93DBeR5kwoydeHAoGBAIe7\noMv8gTQR1ti9ZM9xf5zgjd/HNFVnc9oeMdLa+J4hPJL6SsI7SGR2A4wV4yNf9UFF\nX+82cPHq0Ipe8RQO4frCvM7GUYGuiCfV/uVJhIu0oNyMZ11IefquJBGVZJspp7tM\nYSbit4CDY7LvEG8Sngp8L4MvFWyXdkZOMR86zGgtAoGBAJALlIhWYjHlCaqxWrtb\n3kZQYjJsrDb4KFau8YBQaUf/f0NKTBmd3fiuIxYjPqXbkUTDt8WIXbLYnGe0q8kZ\nmfyLycxPR2ebaIGPWxzPUWR2SF5cMaPwCsGlWWXwkFOhtKdkS5LtgJReX9GZEjTL\n6S9C/iaYKUi7YBT7wAKN5xOZ\n-----END PRIVATE KEY-----\n",
+  "client_email": "skcn-wastewater@skcn-waste-water.iam.gserviceaccount.com",
+  "client_id": "116140811646910087234",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/skcn-wastewater%40skcn-waste-water.iam.gserviceaccount.com"
+}
