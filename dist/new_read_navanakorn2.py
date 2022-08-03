@@ -1,4 +1,5 @@
 # Import the required libraries
+from cmath import nan
 from tkinter import *
 from tkinter import ttk, filedialog
 import pandas as pd
@@ -6,6 +7,7 @@ import gspread
 from datetime import datetime
 from tkinter import messagebox
 import math
+import numpy as np
 
 sa = gspread.service_account(filename='./skcn_wastewater.json')
 sh = sa.open("SKCN_waste_water_IoT")
@@ -213,7 +215,6 @@ def send_data():
             ])
 
         print("send data to google sheet")
-    
 
 def Time2GSS(dt):
     #2022-05-05
@@ -257,6 +258,8 @@ def open_file():
     # For Headings iterate over the columns
     for col in tree["column"]:
         tree.heading(col, text=col)
+
+    df = df.fillna(0)
 
     # Put Data in Rows
     df_rows = df.to_numpy().tolist()
@@ -367,7 +370,6 @@ def check_form_EXCEL():
               i = i+1
               print("not match form",excel_data[5][head_list_cell[i-1]])
               match_form_ += 1
-     print("match_form_  index : ",match_form_ )
              
 
 btn = Button(win, text='open excel file', command=open_file).pack()
